@@ -1,0 +1,30 @@
+body {
+    margin:0;
+}
+
+.quadro {
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 10px 10px 5px #888;
+    border-radius: 20px;
+}
+
+p {
+    width: 500px;
+    height: 150px;
+    font-size: 40px;
+    color: green;
+    margin: auto;
+    margin-top: 100px;
+    text-shadow: 2px 2px 3px #888;
+}
+
+/* Box-shadow ou text-shadow:
+    1º valor = distancia horizontal da sombra + ou -
+    2º valor = distancia vertical da sombra + ou -
+    3º valor = quantidade de blur - espalha a sombra
+    4º valor = cor da sombra 
+*/
