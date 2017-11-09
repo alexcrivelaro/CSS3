@@ -1,0 +1,31 @@
+body {
+    margin:0;
+}
+
+.quadro {
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    margin: auto;
+    margin-top: 100px;
+    transition: all 1s linear;
+}
+
+.quadro:hover {
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    background-color: red;
+}
+
+a {
+    color: #000;
+    font-size: 30px;
+    transition: all 1s linear;
+    text-align: center;
+    margin: 555px;
+}
+
+a:hover {
+    color: #FF0000;
+}
