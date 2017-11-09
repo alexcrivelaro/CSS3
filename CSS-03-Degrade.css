@@ -1,0 +1,43 @@
+body {
+    margin-left: 50px;
+}
+
+.quadro1 {
+    background-color: green;
+    width: 300px;
+    height: 100px;
+    background: blue;
+    background: linear-gradient(white, blue);
+}
+
+.quadro2 {
+    background-color: green;
+    width: 300px;
+    height: 100px;
+    background: blue;
+    background: linear-gradient(-45deg, white, orange);
+    background: -moz-linear-gradient(-45deg, white, orange);
+    background: -o-linear-gradient(-45deg, white, orange);
+    background: -webkit-linear-gradient(-45deg, white, orange);
+}
+.quadro3 {
+    background-color: green;
+    width: 300px;
+    height: 100px;
+    background: blue;
+    background: linear-gradient(90deg, white, red);
+    background: -moz-linear-gradient(90deg, white, red);
+    background: -o-linear-gradient(90deg, white, red);
+    background: -webkit-linear-gradient(90deg, white, red);
+}
+.quadro4 {
+    background-color: green;
+    width: 300px;
+    height: 100px;
+    background: blue;
+    background: linear-gradient(45deg,white, green);
+    background: -moz-linear-gradient(45deg,white, green);
+    background: -o-linear-gradient(45deg,white, green);
+    background: -webkit-linear-gradient(45deg,white, green);
+}
+
