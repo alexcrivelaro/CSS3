@@ -1,0 +1,36 @@
+body {
+    margin:20px;
+    background-color: #e5f7e4;
+}
+
+.quadro {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #e5e5fa;
+}
+
+.quadro1 {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #d6d6fa;
+}
+
+.quadro2 {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    word-wrap: break-word;
+    background-color: #b7b7f8;
+}
